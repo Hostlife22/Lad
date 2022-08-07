@@ -1,7 +1,5 @@
 # Tasks
 
-Sensible webpack 5 boilerplate using Babel, PostCSS and Sass.
-
 ## Installation
 
 Clone this repo and npm install.
