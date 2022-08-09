@@ -10,10 +10,16 @@ npm install
 
 ## Usage
 
-### Task - change the name of the days of the week to the English version
+### Task1 - change the name of the days of the week to the English version
 
 ```bash
-npm run task
+npm run task-1
+```
+
+### Task2 - Fix the code in the tag so that a red border is added to the inputs when focus is applied. Event handling should happen on formElement
+
+```bash
+npm run task-2
 ```
 
 ### Project 1. Bulls and cows

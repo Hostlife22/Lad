@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+input {
+  border: 1px solid #000;
+}
+
+.focused {
+  outline: solid 2px red;
+  border: 1px solid transparent;
+}
